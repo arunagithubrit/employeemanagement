@@ -43,3 +43,5 @@ class SignInView(View):
 class IndexView(TemplateView):
     template_name="index.html"
 
+    
+
